@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
