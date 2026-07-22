@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0946-validate-stack-sequences](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
