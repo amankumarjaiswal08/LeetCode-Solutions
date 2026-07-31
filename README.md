@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
