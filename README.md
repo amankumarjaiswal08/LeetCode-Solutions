@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-validate-stack-sequences](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Linked List
@@ -80,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
