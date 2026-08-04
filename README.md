@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
