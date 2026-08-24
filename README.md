@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3894-traffic-signal-color](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3894-traffic-signal-color](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Queue
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [3894-traffic-signal-color](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
