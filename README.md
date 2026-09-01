@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0135-candy) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
