@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
