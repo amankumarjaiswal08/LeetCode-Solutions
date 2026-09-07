@@ -1,56 +1,45 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    vector<int> inorderArr;
-    int x = -1, y = -1;
-    bool flag = false;
-    void inorder(TreeNode* root) {
-        if (root == NULL) return;
+    void recoverTree(TreeNode* root) {
+        TreeNode* curr = root;
+        TreeNode* prev = nullptr;
+        TreeNode* first = nullptr;
+        TreeNode* second = nullptr;
 
-        inorder(root->left);
-        inorderArr.push_back(root->val);
-        inorder(root->right);
-    }
-    void find_x_y() {
-        int n = inorderArr.size();
-        for (int i = 0; i < n - 1; i++) {
-            if (inorderArr[i + 1] < inorderArr[i]) {
+        while (curr) {
+            if (curr->left == nullptr) {
+                if (prev && prev->val > curr->val) {
+                    if (first == nullptr) {
+                        first = prev;
+                    }
+                    second = curr;
+                }
 
-                if (!flag) {
-                    x = inorderArr[i];
-                    y = inorderArr[i + 1];
-                    flag = true;
+                prev = curr;
+                curr = curr->right;
+            }
+            else {
+                TreeNode* pred = curr->left;
+                while (pred->right != nullptr && pred->right != curr) {
+                    pred = pred->right;
+                }
+                if (pred->right == nullptr) {
+                    pred->right = curr;
+                    curr = curr->left;
                 }
                 else {
-                    y = inorderArr[i + 1];
+                    pred->right = nullptr;
+                    if (prev && prev->val > curr->val) {
+                        if (first == nullptr) {
+                            first = prev;
+                        }
+                        second = curr;
+                    }
+                    prev = curr;
+                    curr = curr->right;
                 }
             }
         }
-    }
-
-    void preorder(TreeNode* root) {
-        if (root == NULL) return;
-        if (root->val == x)
-            root->val = y;
-        else if (root->val == y)
-            root->val = x;
-
-        preorder(root->left);
-        preorder(root->right);
-    }
-    void recoverTree(TreeNode* root) {
-        inorder(root);
-        find_x_y();
-        preorder(root);
+        swap(first->val, second->val);
     }
 };
