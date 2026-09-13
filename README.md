@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3731-find-missing-elements](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
