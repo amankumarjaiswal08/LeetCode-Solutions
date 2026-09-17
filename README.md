@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3731-find-missing-elements](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
