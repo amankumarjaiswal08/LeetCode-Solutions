@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -252,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
