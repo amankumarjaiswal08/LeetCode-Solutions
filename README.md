@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
 | ------- |
