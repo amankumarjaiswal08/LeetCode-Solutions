@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3894-traffic-signal-color](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Heap (Priority Queue)
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0135-candy) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
