@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
