@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
