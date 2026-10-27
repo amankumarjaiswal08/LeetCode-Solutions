@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3099-harshad-number](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3099-harshad-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3894-traffic-signal-color](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Heap (Priority Queue)
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0135-candy) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1903-largest-odd-number-in-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
