@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
