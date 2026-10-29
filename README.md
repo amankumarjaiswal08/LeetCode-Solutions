@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Design
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0135-candy) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2485-find-the-pivot-integer](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Breadth-First Search
 |  |
