@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -340,9 +342,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
