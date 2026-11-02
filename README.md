@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0343-integer-break](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amankumarjaiswal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
